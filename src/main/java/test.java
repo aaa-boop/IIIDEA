@@ -9,5 +9,6 @@ public class test {
         System.out.println("hot-fix");
         System.out.println("pushpush");
         System.out.println("pullpull");
+        System.out.println("gitee");
     }
 }
